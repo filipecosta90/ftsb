@@ -1,5 +1,5 @@
 numpy==1.22.0
-tqdm==4.30.0
+tqdm==4.66.3
 boto3==1.13.24
 tdigest==0.5.2.2
 matplotlib==3.2.1
